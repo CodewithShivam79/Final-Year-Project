@@ -1,0 +1,44 @@
+# PHP
+/vendor/
+/composer.lock
+/.env
+/.env.local
+/.env.*.local
+/phpunit.xml
+/phpunit.xml.dist
+
+# Node
+/node_modules/
+/npm-debug.log*
+/yarn-error.log*
+/pnpm-debug.log*
+
+# IDE / editor
+/.vscode/
+/.idea/
+/*.suo
+/*.ntvs*
+/*.njsproj
+/*.sln
+/*.sw?
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+ehthumbs.db
+Icon?
+ 
+# OneDrive / Windows file syncing
+~$*
+*.lnk
+
+# Logs and temporary files
+*.log
+*.cache
+*.tmp
+*.temp
+
+# Build artifacts
+/dist/
+/build/
